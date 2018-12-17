@@ -1,0 +1,5 @@
+Options -Indexes
+
+Options +MultiViews
+DefaultType application/x-httpd-php
+

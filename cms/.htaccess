@@ -1,0 +1,2 @@
+ErrorDocument 403 "http://localhost/sandesh/ecommerce/cms/page_403.html"
+#ErrorDocument 404 "http://localhost/sandesh/ecommerce/cms/page_404.html"
